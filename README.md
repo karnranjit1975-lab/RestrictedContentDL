@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 ## Configuration
 
 1. Open the `config.env` file in your favorite text editor.
-2. Replace the placeholders for `API_ID`, `API_HASH`, `SESSION_STRING`, and `BOT_TOKEN` with your actual values:
+2. Replace the placeholders for `38223743`, `61f90529cb62082d4fc9e28474049483`, `BQJHP38ANJkn6qt900IZ5itciJTbBZMBDy1evUEzHYikNxnuAAGhyeCoGy80Yp5nbb1359ytceTN4jPNi1K9_qZPCLVvtMz2T8olu2qXT43jZXMvBDGXtkwafiStat1wqpsBR1DoK9AyYSkCSle6aVPBmx72SwhjJCU6zPnAcQDvfbRTfv66kp_zkoC5WT75F3iedZcI9R4ZTglIzolMEYz2TlXam3KuZl4MW4ssREQBa5KhnN_xN4cV6XFisrXPcMy2B-vcNRmV_iMjy2PPeR5H9D0jD4Kjbz7t0BNfx4EpqOoGPei0FldFZ6mJ4Agp3HEtfJSvgng0aUxVY_vyE4CujT_wmQAAAAGHgcF8AA`, and `7904611879:AAFgGPcX8zAqsIt38cVEFHRucCqD-5PGRMw` with your actual values:
    - **`API_ID`**: Your API ID from [my.telegram.org](https://my.telegram.org).
    - **`API_HASH`**: Your API Hash from [my.telegram.org](https://my.telegram.org).
    - **`SESSION_STRING`**: The session string generated using [@SmartUtilBot](https://t.me/SmartUtilBot).
